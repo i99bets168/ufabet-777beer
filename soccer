@@ -1,4 +1,4 @@
-# Build and Release Folders
+# เว็บแทงบอล
 bin-debug/
 bin-release/
 [Oo]bj/
@@ -16,8 +16,6 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
-
-เว็บแทงบอล
 
 คือการบริการรูปแบบใหม่ ที่เพิ่มความสะดวกสบาย ให้กับนักเดิมพัน ที่ต้องการ แทงบอลออนไลน์  โดยที่ไม่ต้องเดินทางไปยัง โต๊ะบอล เพื่อทำการ
 เดิมพัน แต่สามารถเลือกคู่ หรือทีมที่จะแทงได้เลย ผ่านคอมพิวเตอร์ หรือมือถือ และราคาบอล ก็มีการอัพเดทอยู่เสมอ ซึ่งทาง เว็บพนันบอล ดีที่สุด ได้มีการจัดเตรี
